@@ -1,5 +1,5 @@
-# Personal Robotics Docker Images
-This repository contains build information for generating various Docker images and Docker-Compose containers that package useful components of the software at the Personal Robotics lab.
+# Docker Images
+
 
 ----
 #### Building images with Docker
